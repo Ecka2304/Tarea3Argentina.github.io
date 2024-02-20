@@ -33,7 +33,8 @@ h1{
     margin-bottom: 25px;
 }
 .container{
-    max-width: 1000px;
+    max-width: 100%;
+    height: auto;
     margin: 0 auto;
     padding: 20px;
     border-radius: 8px;
@@ -118,7 +119,8 @@ h3{
     margin-top: 30px;
     margin-left: 65px ;
     display: block;
-    
+    max-width: 100%;
+    height: auto;
 }
 #derechos{
     color:white;
